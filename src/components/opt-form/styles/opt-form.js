@@ -28,7 +28,7 @@ export const Container = styled.div`
 export const Input = styled.input`
   border: 0;
   padding: 15px;
-  height: 70px;
+  height: 60px;
   box-sizing: border-box;
   outline: none;
   margin: 0;
