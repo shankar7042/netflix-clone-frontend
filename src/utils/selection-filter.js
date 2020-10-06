@@ -41,7 +41,7 @@ export default function selectionFilter({ series, films }) {
       },
       {
         title: "Romanace",
-        data: films.filter((item) => item.genre === "romanace"),
+        data: films.filter((item) => item.genre === "romance"),
       },
     ],
   };
